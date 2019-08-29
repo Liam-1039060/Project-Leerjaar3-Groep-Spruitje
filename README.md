@@ -1,6 +1,6 @@
-# Project-Leerjaar3-Groep-Spruitje
+# Project-Leerjaar3-Groep-Spruitje (Groep 3)
 
-Yo welkom bij de meest efficiente projectgroep van het jaar. Onze huidige taken zijn:
-- Documentatie sjabloon maken
-- Repository in orde maken
-- Lees de projectwijzer goed door, bereid je vast voor op het interview
+Welkom, hier staan onze huidige werkzaamheden:
+- Documentatie sjabloon maken -Eefje
+- Repository in orde maken -Jorden
+- Lees de projectwijzer goed door, bereid je vast voor op het interview -Liam
